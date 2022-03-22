@@ -1,34 +1,34 @@
 ---
 description: >-
-  These seven founders comprise the founding team of Frogland, NewPangea and Good Ribbit Productions, LLC.
+  Estos siete fundadores forman el equipo fundador de Frogland, NewPangea y Good Ribbit Productions, LLC.
 ---
 
-# 💚 The Frog Team
+# 💚 El Frog Team
 
-### Snoop Frogg, CEF (Chief Executive Frog)
+### Snoop Frogg, CEF (Jefe Ejecutivo Frog)
 
-A Silicon Valley CEO with a track record developing innovative technologies, Snoop developed partnerships with Nvidia and built products and prototypes for Samsung and Mattel. A Judge at the Bermuda International Film Festival, Snoop recently presented NFTs and Frogland and the NewPangea metaverse to the United Nations.&#x20;
+Snoop ha sido un CEO en Silicon Valley con un historial en desarrollo de tecnologías innovadoras, desarrolló alianzas con Nvidia y construyó productos y prototipos para Samsung y Mattel. Juez en el Festival Internacional de Cine de Bermuda, Snoop presentó recientemente a las Naciones Unidas NFTs, Frogland y el metaverso de NewPangea.&#x20;
 
-### Shrimp, CCF (Chief Creative Frog)&#x20;
+### Shrimp, CCF (Jefe Creativo Frog)&#x20;
 
-A Creative Director with years experience in Hollywood working on iconic IP such as Star Wars, Pirates and Transformers. In Real Life, Shimp, is known for designing Harry Potter’s Patronus, co-creator of the 19 Crimes Talking Wine Bottle, and even helped build Michael Jackson’s hologram for the Live broadcast of “Slave to the Rhythm” at the Billboard Awards Show.&#x20;
+Director Creativo con años de experiencia en Hollywood trabajando en IP icónica como Star Wars, Piratas y Transformers. En la vida real, Shrimp, es conocido por diseñar el Patronus de Harry Potter, cocreador de 19 Crimes Talking Wine Bottle, e incluso ayudó a construir el holograma de Michael Jackson para la transmisión en vivo de “Slave to the Rhythm” en el Salón de los Premios Billboard.&#x20;
 
-### Bugs, CNF (Chief Narrative Frog)
+### Bugs, CNF (Jefe Narrativo Frog)
 
-Animator, CG Supervisor, Graphic Designer, Screenwriter and Novelist. Bugs has worked on everything from videogames to national brand advertising to children's television shows to Disney features. Bugs and Shrimp have had a creative partnership for a decade and together form our visual story and game development Dynamic Duo who shape the total narrative vision for Notorious Frogs.&#x20;
+Animaciones, Supervisor CG, Diseñador Gráfico, Guionista y Novelista. Bugs ha trabajado en todo, desde videojuegos hasta publicidad de alcance nacional, pasando por programas de televisión infantiles hasta Disney. Bugs y Shrimp han tenido una asociación creativa durante una década y juntos forman el dúo dinámico encargado de nuestra historia visual y desarrollo de juegos, que conforma la visión narrativa total de las Notorious Frogs.&#x20;
 
-### Frogzilla, FFA (Frog Fine Artist)&#x20;
+### Frogzilla, FFA (Artista Frog)&#x20;
 
-A renowned fine artist inspired by the trips to the pond with her father, spawned this amazing project to make the frogs live forever. Having spent the last 12 years between London and Bermuda looking for what is beyond abstraction, Frogzilla discovered that generative art is the next evolution in the art world. Having sold artwork at the prestigious Lots Road Auction House in Central London, Frogzilla has no backlog of unsold art. Traditional art has never felt near as personal nor exciting as creating art for the NFT space. Having been mentored and certified from the Museum of Modern Art, Frogzilla learned a valuable lesson of staying true to herself so that anyone can see it in the originality of her work.&#x20;
+Una renombrada artista inspirada en los viajes al estanque con su padre, generó este increíble proyecto para hacer que las ranas vivan para siempre. Habiendo pasado los últimos 12 años entre Londres y Bermuda, buscando lo que está más allá de la abstracción, Frogzilla descubrió que el arte generativo es la próxima evolución en el mundo del arte. Después de haber vendido obras de arte en la prestigiosa Lots Road Auction House en el centro de Londres, Frogzilla no tiene obras de arte sin vender. El arte tradicional nunca se ha sentido tan personal ni emocionante como crear arte para el espacio NFT. Habiendo sido mentorizada y certificada por el Museo de Arte Moderno, Frogzilla aprendió la valiosa lección de mantenerse fiel a sí misma para que cualquiera pueda ver la originalidad de su trabajo.&#x20;
 
-### Gamabunta, CToF (Chief Tokenomic Frog)
+### Gamabunta, CToF (Jefe de Tokenomic Frog)
 
-Also known as Don-Luv from the PizzaDao, Gamabunta is a wizard and our tokenomics director. Gamabunta co-founded an energy software company in 2012 and a blockchain education company in 2017. Now full time crypto and NFTs builder, he is working on Frogland’s generator, tokenomics, game design, and land mechanics.&#x20;
+También conocido como Don-Luv de PizzaDao, Gamabunta es un mago y nuestro director de tokenomics. Gamabunta co-fundó una compañía de software de energía en 2012 y una compañía educativa blockchain en 2017. Ahora el constructor de criptomonedas y NFTs a tiempo completo, está trabajando en el generador de Frogland, las tokenomics, el diseño de juegos y la mecánica de la tierra&#x20;
 
-### Froggy Digital, CTeF (Chief Technical Frog)
+### Froggy Digital, CTeF (Jefe Técnico Frog)
 
-A Weapon of Mass Construction, building software anywhere code runs. This frog is an expert at bringing software products to market across a range of industries and building media experiences for organizations you know and love such as NPR and Discovery Communications. Most recently, he’s been working for Microsoft to develop Election Guard, an end to end verifiably encrypted voting software used by the House of Representatives in the 2020 caucus.&#x20;
+Un Arma de Construcción Masiva, construyendo software en cualquier lugar donde el código funcione. Esta rana es un experto en la comercialización de productos de software a través de una variedad de industrias y en la creación de experiencias de medios para organizaciones que usted conoce y ama como NPR y Discovery Communications. Más recientemente, ha estado trabajando para que Microsoft desarrolle Election Guard, un software de votación cifrado verificablemente utilizado por la Cámara de Representantes en el cauco 2020.&#x20;
 
-### Lollihops, CPCF (Chief Production & Community Frog)
+### Lollihops, CPCF (Directora de Producción & Community Frog)
 
-Coming from a work background dealing in the importance of human connection and communication through more than just spoken word, Lollihops made the leap into full time crypto and NFTs shortly after the launch of Frogland. Fondly known as the Chief Cat Herder, she is the touch point between all internal and external branches of the project, including the members of the community, partner projects, and game dev studio. She ensures the fluid blending of community vision with creative and narrative direction in the testbed of the discord, then integrated into the gameplay and aesthetic of the metaverse.
+Procedente de un entorno de trabajo que trata de la importancia de la comunicación y la conexión humana a través de algo más que de la palabra hablada. Lollihops dio el salto a tiempo completo en cripto y NFT poco después del lanzamiento de Frogland. Cariñosamente conocida como Chief Cat Herder, es el punto de referencia entre todas las ramas internas y externas del proyecto, incluyendo los miembros de la comunidad, proyectos asociados y estudio de desarrollo de juegos. Ella asegura la mezcla fluida de la visión comunitaria con la dirección creativa y narrativa en el discord, para luego integrarlo en el juego y estética del metaverso.
