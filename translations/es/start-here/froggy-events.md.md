@@ -1,12 +1,12 @@
 ---
-description: Past and future events for the Notorious Frogs.
+description: Eventos pasados y futuros.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 📅 Froggy Events
+# 📅 Eventos Froggy
 
-**10/31 - 11/5/21** - NFT NYC - Frog takeover
+**10/31 - 11/5/21** - NFT NYC - Invasión de ranas
 
 **11/2/21** - BO0N1LAND party co-hosted between Frogland, Rare Pizzas, 0N1 Force, and Ethereals
 
