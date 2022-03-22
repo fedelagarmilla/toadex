@@ -2,47 +2,47 @@
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 description: >-
-  Welcome to the Toadex! Here you will find a starting point for exploration through our philosophy.
+  ¡Bienvenido al Toadex! Aquí encontrará un punto de partida para la explorar nuestra filosofía.
 ---
 
-# 🐸 Introduction
+# 🐸 Introducción
 
-### Start Here
+### Empieza aquí
 
-This subheading has everything you need to learn things at a glance about NewPangea and Frogland.&#x20;
+Esta sección tiene todo lo que necesitas para aprender de un vistazo todo sobre NewPangea y Frogland.&#x20;
 
-### Design
+### Diseño
 
-This encompasses and explains our broadest philosophies of both NewPangea and Frogland, as well as how we are implementing them using new technology and a new way of creating.&#x20;
+Esto engloba y explica nuestras más amplias ideas tanto de NewPangea como de Frogland, así como cómo las estamos implementando utilizando nuevas tecnologías y una nueva forma de crear.&#x20;
 
-### Community
+### Comunidad
 
-There is something for everyone in NewPangea - whether you are a creator or builder, a thinker or a player, anyone and everyone is welcome to play, explore, and contribute.
+Hay algo para todos en NewPangea - ya seas un creador o constructor, un pensador o un jugador, cualquiera y todos son bienvenidos a jugar, explorar y contribuir.
 
-### Gameplay
+### Jugabilidad
 
-This is where all of the pieces and parts currently bridging the gap between discord beta testing and real NewPangea playability reside.&#x20;
+Aquí es donde residen todas las piezas y partes que actualmente enlazan las pruebas beta de discord y la jugabilidad real de NewPangea.&#x20;
 
-### Frogland News Network (FNN)
+### Red de noticias de Frogland (FNN)
 
-Official Frogland news sources and documentation.&#x20;
+Fuentes de noticias y documentación oficial de Frogland.&#x20;
 
 ### Frogland
 
-All things frog! From concept art to community creations, files and games, all things having to do with the Notorious Frogs, their home district, and where they go from here are located in this section.
+¡Todo sobre las ranas! Desde arte conceptual hasta creaciones de la comunidad, archivos y juegos, todo lo que tiene que ver con las Notorious Frogs, su distrito de origen, y a dónde van de aquí están ubicados en esta sección.
 
 ### Gutterville
 
-Where NewPangea's pillars will be fleshed out by and for the Gutter Gang community to make Gutterville a home like no other for the cats, rats, dogs, and pigeons.
+Donde los pilares de NewPangea serán elaborados por y para que la comunidad Gutter Gang haga de Gutterville un hogar como ningún otro para los gatos, ratas, perros y palomas.
 
-### Island of Osseous
+### Isla de Osseous
 
-The home district to the Wicked Craniums.
+El distrito de origen de los Wicked Craniums.
 
 ### Ethereal Enclave
 
-Where the 0N1 Force has receded to in their attempt to beat the clock as it ticks down their final 7,777 hours, and try to escape D34TH.
+Donde la fuerza 0N1 ha retrocedido en su intento de vencer el reloj mientras esperan su últimas 7, 77 horas e intentan escapar de la D34TH.
 
-### Architecture
+### Arquitectura
 
-The mechanisms and coding behind the curtain: blockchain, NFTs, tokenomics, etc.&#x20;
+Los mecanismos y la codificación detrás de la cortina: blockchain, NFTs, tokenomics, etc.&#x20;
