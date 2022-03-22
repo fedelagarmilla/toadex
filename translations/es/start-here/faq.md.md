@@ -6,50 +6,50 @@ coverY: 0
 
 # ❓ FAQ
 
-### _What is NewPangea?_
+### _¿Qué es NewPangea?_
 
-NewPangea is the new metaverse, home to The Notorious Frogs of Frogland, as well as other profile picture projects, artists, and creators alike.&#x20;
+NewPangea es el nuevo metaverso, hogar de las Notorious Frogs de Frogland, así como de otros proyectos de imágenes de perfil, artistas y creadores por igual.&#x20;
 
-### _What is Frogland?_&#x20;
+### _¿Qué es Frogland?_&#x20;
 
-Frogland is a district on a plateau in the center of NewPangea where the Notorious Frogs reside.
+Frogland es un distrito en una meseta en el centro de NewPangea, donde residen las Notorious Frogs.
 
-### _What are the Notorious Frogs?_
+### _¿Qué son las Notorious Frogs?_
 
-The Notorious Frogs are 10,000 randomly generated humanoid frog NFTs that inhabit Frogland. Previously bearing the appearance of normal frogs from Earth, they discovered a mysterious, alien device in the woods. The device was somehow activated, and transported these frogs into their new home of Frogland in the NewPangea metaverse.
+Las Notorious Frogs son 10.000 NFT generados aleatoriamente que habitan Frogland. Anteriormente, con la apariencia de ranas normales de la Tierra, descubrieron un misterioso dispositivo extraterrestre en el bosque. El dispositivo se activó de alguna manera y transportó estas ranas a su nuevo hogar de Frogland en el metaversa de NewPangea.
 
-### _What are the other districts in NewPangea?_
+### _¿Cuáles son los otros distritos de NewPangea?_
 
-The three other founding pfp districts in NewPangea are: Gutterville, home of the Gutter Cat Gang; the Island of Osseous, home to the Wicked Craniums; and the Art District, home to individual artists and NFT galleries.&#x20;
+Los otros tres distritos pfp fundadores de NewPangea son: Gutterville, sede del Gutter Cat Gang; La Isla de Osseous, hogar de los Wicked Craniums, y el Distrito de Arte, hogar de artistas individuales y galerías del NFT.&#x20;
 
-### _What does #BuyFrogGetLand mean?_
+### _¿Qué significa #BuyFrogGetLand?_
 
-Each Notorious Frog NFT has a home in NewPangea called a LilyPAD (Personal Access Domain). When you purchase a Notorious Frog, you are also purchasing land in the metaverse.
+Cada Notorious Frog NFT tiene un hogar en NewPangea llamado LilyPAD (Personal Access Domain). Cuando compras una Notorious Frog, también estás comprando terreno en el metaverso.
 
-### _**So I'm buying a frog AND land?**_
+### _**Así que estoy comprando una rana y tierra?**_
 
-Yes, for the price of one NFT! We will take a snapshot of wallet addresses when we are ready to release the land, at which time every wallet with a Notorious Frog in it will be dropped or be able to claim their plot of land (LilyPAD). The Notorious Frogs will NOT be tied to their land after the snapshot is taken.
+Sí, por el precio de un NFT! Tomaremos un snapshot de direcciones de billeteras cuando estemos listos para liberar la tierra, en cuyo momento cada billetera con una Notorious Frog en ella será podrá reclamar su terreno (LilyPAD). LasNotorious Frogs NO serán atadas a su tierra después de la toma del snapshot.
 
-### _What do with Notorious Frog after land drop?_
+### _¿Qué hacer con la Notorious Frog después de la entrega de tierra?_
 
-The ownership of land is not the only utility with the Notorious Frogs NFTs - even after the land is distributed, the frogs will represent the characters/avatars their hodlrs can play and utilize in the metaverse. Make sure you take a look at your frogs stats, boosts, and non-visual traits when you buy - all of that will be incorporated into the gameplay.
+La propiedad de la tierra no es la única utilidad con las NFT de Notorious Frogs, incluso después de la distribución de la tierra, las ranas representarán a los personajes/avatares que sus dueños pueden jugar y utilizar en el metaverso. Asegúrate de echar un vistazo a los niveles de ranas (levels), mejoras (boosts), y rasgos no visuales al comprar - todo eso se incorporará al juego.
 
-### _Where can I buy a Notorious Frog?_
+### _¿Dónde puedo comprar Notorious Frogs?_
 
-The remaining NFTs after presale were all minted less than 9 hours after art reveal. Secondary sales are currently only located on OpenSea - but **don't get scammed**! Only purchase verified frogs - check out our official linktree [here](https://linktr.ee/Frogland).
+Los NFT restantes después de la pre-venta fueron mintados menos de 9 horas después del arte revelado. Las ventas secundarias actualmente solo se encuentran en OpenSea - ¡pero **no te estafes**! Solo compra ranas verificadas - échale un vistazo a nuestro árbol de enlaces oficial [aquí](https://linktr.ee/Frogland).
 
-### _How are NewPangea and Frogland being built?_
+### _¿Cómo se está construyendo NewPangea y Frogland?_
 
-NewPangea, Frogland, and the other districts are all being individually curated between the Frog Team, the game development studio, and the communities that will inhabit them to reflect each project's lore, aesthetic, and community members' identities.
+NewPangea, Frogland y los demás distritos están siendo supervisados individualmente entre el Frog Team, el estudio de desarrollo de juegos, y las comunidades que los habitarán para reflejar las identidades de los miembros de cada proyecto, tanto estéticos como comunitarios.
 
-### _Wen metaverse? Wen land?_
+### _¿Cuándo Metaverso? ¿Cuando tierra?_
 
-NewPangea is already under development with Dream Reality Interactive (DRI), a top tier game development studio founded by Sony's flagship London Studio team. Check them out [here](https://www.dreamrealityinteractive.com). As of 12/26/21, we launched a multiplayer demo for our community members after less than 90 days of development!
+NewPangea ya está en desarrollo con Dream Reality Interactive (DRI), un estudio de desarrollo de juegos de primer nivel fundado por el prestigioso equipo London Studio de Sony. Échales un vistazo a [aquí](https://www.dreamrealityinteractive.com). ¡Desde el 26/12/21 lanzamos una demostración multijugador para los miembros de nuestra comunidad después de menos de 90 días de desarrollo!
 
-### _When can I get involved?_
+### _¿Cuándo me puedo integrar?_
 
-Right now!! Frogland's discord is being pushed to it's limits for community members to discuss as well as beta-test narratives, gameplay, utility, and economy practices. Members who engage on the discord will find their marks imprinted on the blueprints and foundations of NewPangea as they help us shape the future of the metaverse.
+Ahora mismo!! El Discord de Frogland está siendo empujado a sus límites para que los miembros de la comunidad discutan al igual que realicen pruebas beta sobre la narrativa, el juego, la utilidad y las prácticas económicas. Los miembros que participan en Discord dejarán su marca en los planos y cimientos de NewPangea mientras nos ayudan a dar forma al futuro del metaverso.
 
-### _Wen play?!_
+### _¿Cuándo juego?!_
 
-For community members, right now!! The demo of Frogland will remain live for our community to explore as we continue to iterate and build out NewPangea at scale behind the scenes.&#x20;
+Para miembros de la comunidad, ahora mismo!! La demo de Frogland permanecerá activa para que nuestra comunidad pueda explorar mientras seguimos iterando y construyendo NewPangea a escala detrás de las escenas.&#x20;
