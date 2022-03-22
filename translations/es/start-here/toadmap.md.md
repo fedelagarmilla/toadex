@@ -1,12 +1,12 @@
 ---
-description: The timeline of NewPangea's progress.
+description: La cronología del progreso de NewPangea.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
 # 🗺 Toadmap
 
-## Past Notorious Deeds
+## Hechos notorios del pasado
 
 **8/14/21** - Frogland spawned it's own discord server
 
