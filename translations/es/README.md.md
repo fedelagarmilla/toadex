@@ -1,12 +1,12 @@
 ---
 cover: .gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
-description: Welcome, frens!
+description: '¡Bienvenidos, amigos!'
 ---
 
-# Welcome to NewPangea
+# Bienvenido a NewPangea
 
-If you've made it here, you're interested in finding out what the frog is hoppening with the Notorious Frogs of Frogland, NewPangea!&#x20;
+Si has llegado hasta aquí, ¡estás interesado en averiguar qué rana está pasando con las Notorious Frogs de Frogland, NewPangea!&#x20;
 
 Consider this Frogland's White Paper. Except...how can a simple 'white paper' encompass all that the Notorious Frogs, Frogland, and NewPangea strive for and represent? More importantly, frogs aren't white...they're _multicolored._
 
