@@ -1,63 +1,63 @@
 ---
 description: >-
-  Some key functions in Discord to enhance your experience! Prices and odds subject to change.
+  ¡Algunas funciones clave en Discord para mejorar tu experiencia! Precios y posibilidades sujeto a cambios.
 ---
 
-# 💰 Notable Discord Functions
+# 💰 Funciones destacadas de Discord
 
-## WAYS TO EARN MONEY...OR LOSE IT!
+## FORMAS DE GANAR DINERO... O PERDERLO!
 
-### WORK, BEG, OR STEAL
+### TRABAJAR, MENDIGAR O ROBAR
 
-#### **$collect all -** Collect income from the roles you've gained!
+#### **$collect all -** ¡Recoge ingresos de los roles que has ganado!
 
-* Best utilized in the Town Square, Gardens, Stash House
+* Mejor utilizado en Town Square, Gardens, Stash House
 
-#### _**$work**_ - Earn money doing random working activities in Frogland.
+#### _**$work**_ - Gana dinero haciendo trabajos aleatorios en Frogland.
 
-* Best utilized in the Town Square, Gardens, Stash House
+* Mejor utilizado en Town Square, Gardens, Stash House
 
-#### **$crime** - Commit crimes to earn money, but beware of hefty fines!
+#### **$crime** - Comete crímenes para ganar dinero, ¡pero ten cuidado con las multas!
 
-* Best utilized in the The Town Square, Stash House
+* Mejor utilizado en Town Square, Stash House
 
-#### **$slut** - Sell your body for money, fines are common.
+#### **$slut** - Vende tu cuerpo por dinero, las multas son comunes.
 
-* Best utilized in the The Town Square, Stash House
+* Mejor utilizado en Town Square, Stash House
 
-#### **$rob @\[username] -** Take your chances pickpocketing a community member, but beware fines!
+#### **$rob @\[username] -** ¡Aprovecha la oportunidad de robar a un miembro de la comunidad, pero ten cuidado con las multas!
 
-* Best done under the cover of darkness and hidden in the upscroll of busy channels - but beware, as some are under gang protection from $robbing - blood in, blood out.&#x20;
+* Mejor hecho a escondidas y oculto en la parte superior de los canales con much actividad - pero cuidado, ya que algunos están bajo protección de pandillas - sangre en sangre.&#x20;
 
-#### **$roulette ($rr), $blackjack ($bj), $slots** - All types of gambling, bet at your own risk!
+#### **$roulette ($rr), $blackjack ($bj), $slots** - ¡Todos los tipos de apuestas, apuesta bajo tu propio riesgo!
 
-* Only playable in the Casino
+* Sólo jugable en el Casino
 
-_Pro tip: if you're broke with no cash or banked money, you'll avoid fines as you get back on your feet with the various notorious deeds above!_
+_Pro: si estás en bancarota sin dinero en efectivo o en el banco, evitarás multas mientras te vuelves a levantar con las diversas actividades mencionadas arriba!_
 
-### ANIMAL RACING AND CARE
+### CARRERAS DE ANIMALES Y CUIDADOS
 
-#### $animals buy \[snail/pigeon/greyhound/horse] > \[animal nickname] - purchase an animal for racing and give it a memorable name
+#### $animals buy \[snail/pigeon/greyhound/caballo] > \[apodo animal] - compra un animal para carreras y dale un nombre memorable
 
-* Best utilized in the Stables for animal care, racing done in Town Square (illegally)
+* Mejor utilizado en los establos (Stables) para el cuidado de animales, y carreras en Town Square (ilegalmente)
 
-#### $provisions buy \[food item for animal] - more varied feed creates a happier, healthier, and faster racing animal!
+#### $provisions buy \[alimento para animal] - ¡un alimento más variado crea un animal de carreras más feliz, saludable y rápido!
 
 * **Snail** - Cucumber, lettuce, tomato
 * **Pigeon** - Seeds, berries, cheese
 * **Greyhound** - Mice, salmon, rabbit
 * **Horse** - Grass, hay, apple
 
-### CHICKEN FIGHTING
+### PELEA DE GALLOS
 
-#### $buy chicken - buy a chicken to use in the illegal cock fighting rings rampant in Frogland
+#### $buy chicken - compra un pollo para usarlo en las arenas ilegales de lucha de pollos en Frogland
 
-#### $chicken fight ($cf) - send your chicken into the ring to win glory...and a big payout
+#### $chicken fight ($cf) - envía tu pollo a la arena para ganar gloria... y una gran ganancia
 
-* Best utilized in the Gardens, Town Square, or the secret thread dedicated to the all time greatest cocks to have ever fought in the streets of Frogland
+* Mejor utilizado en los jardines (Gardens), plaza de la ciudad (Town Square), o el hilo secreto dedicado a los gallos más grandes de todos los tiempos que han peleado en las calles de Frogland
 
-#### PVP CHICKEN FIGHTS
+#### PELEAS DE GALLOS PVP
 
-* Organized by members of the Nazar Frogs and highly anticipated by audiences across the world, these cocks are far from ordinary. When rumors of a legendary cock with off the chart win percentages begins to churn through the gossip mill, members of the Nazar organize a venue complete with all the trappings of a big time showdown, with external betting and prizes to boot. Not to be missed!
+* Organizadas por miembros de las Ranas de Nazar y muy anticipadas por el público de todo el mundo, estos gallos están lejos de ser ordinarios. Cuando los rumores de un gallo legendario con gran número de peleas ganadas comienza a correr por las calles, los miembros del Nazar organizan un evento completo con todas las características de un gran enfrentamiento, con apuestas externas y premios. ¡No hay que perderse!
 
-WIP - more to come!
+WIP - ¡más por venir!
