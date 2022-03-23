@@ -6,7 +6,7 @@ description: El mapa general de NewPangea y dónde están las zonas y distritos.
 
 ### Mapa de NewPangea
 
-![NewPangea rough draft map](../../.gitbook/assets/NewPangea-Map-Color-Labels.png)
+![Mapa de borrador de NewPangea](../../.gitbook/assets/NewPangea-Map-Color-Labels.png)
 
 NewPangea es la metaverso global, compuesto por cinco zonas con características temáticas ligeramente diferentes.  Los proyectos asociados que se unen a NewPangea tienen su "distrito" en una zona específica, pero será posible viajar entre las zonas. Los individuos pueden comprar terrenos en el distrito perteneciente a su proyecto, pero estamos explorando tanto la opción de comprar terreno en cualquier distrito, como la opción de que un propietario de terreno alquile el espacio.&#x20;
 
@@ -20,37 +20,37 @@ NewPangea es la metaverso global, compuesto por cinco zonas con características
   * Proporciona a los propietarios de Notorious Frogs la distinción de ser fundadores de este metaverso
   * Proporciona una base para el desarrollo de narrativas detalladas con otros proyectos.  La centralidad de Frogland la sitúa en una posición de poder potencial dentro de el metaverso, lo que puede significar que se convertirá en una amenaza, y puede significar que se convertirá en un objetivo de toma de control.
   * La centralidad también ayudará al desarrollo de sistemas económicos tanto en el juego como en el mundo real.  Frogland será un campo de pruebas de valor de tokens y utilidad, y su experiencia en esas áreas informará a otros proyectos sobre lo que funciona, qué no, y qué oportunidades pueden ser cubiertas por la cultura y la economía que traen al metaverso. &#x20;
-* Frogland tendrá vecinos definidos por hábitat y función. For example, there is a main street, "Amphibian Way", a downtown of sorts, plus there will be subsidiary areas that will have their own flavor of businesses, such as Frogland's "Green Light" neighborhood, a "Frog Worts" arcane area, and outskirts known as the "Borderlands".  There will be ponds, some smaller, some larger, most of them primarily residential areas, but others might develop as either recreational or industrial areas. Some of the land is reserved for business, including farming and manufacturing.
-* Frogland has lots of fresh water, but water cascading over its edges carries away soil nutrients that limit the kind of plants that can grow there. Some of these plants have developed aggressive root systems that slowly strangle subsurface volcanic rock to extract nutrients. There are at least two species of plant that have developed the ability to eat large insects and small animals to feed their needs.
-* Frogland also has areas of dense tropical forest. Hidden in the depths of these forests are ruins of an unknown origin.
-* The discovery of broad, sinuous tunnels under the surface lead to the theory that the underground passageways may have been fumaroles of a now defunct volcano. However, other explanations are possible. One group of Frogs believes them to be the home of an extinct underground species - or possibly one that has migrated underground and now inhabits the subsurface below one or more of the vast territory of the surrounding zones. One particular Frog, who has chosen to live in the tunnels and who only emerges on the surface at night claims that there are petroglyphs on the walls of some tunnels, and that the drawings on the walls depict a creature that no Frog has ever seen.
+* Frogland tendrá vecinos definidos por hábitat y función. Por ejemplo, hay una calle principal, "Amphibian Way", un centro de ciudad, además habrá áreas subsidiarias que tendrán su propio sabor de negocios. como la "Luz Verde" (Green Light) de Frogland, un área arcana "Frog Worts", y las afueras conocidas como la "Frontera" (Borderlands).  Habrá estanques, unos más pequeños, otros más grandes, la mayoría de ellos principalmente áreas residenciales, pero otros podrían desarrollarse como áreas recreacionales o industriales. Algunas de las tierras están reservadas para los negocios, incluyendo la agricultura y la fabricación.
+* Frogland tiene mucha agua fresca, pero la cascada de agua sobre sus bordes transporta los nutrientes del suelo que limitan el tipo de plantas que pueden crecer allí. Algunas de estas plantas han desarrollado sistemas de raices agresivos que lentamente estrangulan rocas volcánicas subsuperficiales para extraer nutrientes. Existen al menos dos especies de plantas que han desarrollado la capacidad de comer grandes insectos y pequeños animales para alimentar sus necesidades.
+* Frogland también tiene áreas de denso bosque tropical. Escondidos en las profundidades de estos bosques se encuentran ruinas de origen desconocido.
+* El descubrimiento de amplios túneles sinuosos bajo la superficie conducen a la teoría de que los pasajes subterráneos pueden haber sido fumarolas de un volcán ya extinto. Sin embargo, otras explicaciones son posibles. Un grupo de Ranas cree que son el hogar de una especie subterránea extinguida, o posiblemente una que ha migrado subterráneamente y que ahora habita la superficie debajo de una o más del vasto territorio de las zonas circundantes. Una rana en particular, quien ha optado por vivir en los túneles y que sólo emerge en la superficie por la noche afirma que hay petroglifos en las paredes de algunos túneles. y que los dibujos en las paredes representan una criatura que ninguna Rana ha visto jamás.
 
-## The Other Four Zones Surrounding Frogland's Plateau
+## Las otras 4 zonas que rodean la meseta de Frogland
 
-### The Forbidden Zone
+### La Zona Prohibida
 
-* To the west of the Frogland Plateau
-* General Theme is "Outlands and Wilderness" (note that 'wilderness' does not mean only forests – deserts are 'wilderness', so is 'tundra'.
-* The Ruined City is a City that can have multiple Districts.
-* "Gutterville" is the home District for The Gutter Cat Gang
+* Al oeste de la Meseta de Frogland
+* El tema general es "Tierras Lejanas y Tierra Salvaje" (nótese que 'tierra salvaje' no es solo bosque - los desiertos son 'salvajes', al igual que la 'tundra'.
+* La Ciudad en Ruinas es una ciudad que puede tener varios distritos.
+* "Gutterville" es el distrito principal de Gutter Cat Gang
 
-### The Post-Mortem Zone
+### La Zona Post-Mortem
 
-* To the south of the Frogland Plateau
-* General theme is "The Otherworld" ie, The Afterlife
-* The Island of Osseous – the home district to the undead Wicked Craniums is an example of a City that is intended to have only one District – presumption is that the Craniums want the island for themselves.
+* Al sur de la meseta de Frogland
+* El tema general es "El Otromundo" es decir, la ultratumba
+* La isla de Osseous –el distrito de origen de los no-muertos Wicked Craniums es un ejemplo de una ciudad que sólo pretende tener un distrito– la presunción es que los Craniums quieren la isla para sí mismos.
 
-### The Lowlands Zone
+### La Zona de tierras bajas
 
-* To the east of Frogland's Plateau
-* General theme is "Mud and Flood – Lakes and Creeks"
-* Not populated yet
-* A Swamp District is reserved for some of our favorite higher primates for now.
-* The City of Black Water (provisional)
+* Al este de la meseta de Frogland
+* El tema general es "Lodo e Inundación - Lagos y Arrollos"
+* No poblado aún
+* Un Distrito de los Pantanos está reservado para algunos de nuestros primates superiores favoritos por ahora.
+* La Ciudad de Black Water (provisional)
 
-### The Exposition Zone
+### Zona de Exposición
 
-* To the north of Frogland's Plateau
-* General theme is: "a laboratory/playground/workshop for the world's creative future"
-* It's Districts differ from the NFT-Collectibles Districts in unique ways
-* The Districts are themed by creative venues and galleries, performance spaces, stages&#x20;
+* Al norte de la meseta de Frogland
+* El tema general es: "un laboratorio/playground/taller para el futuro creativo del mundo"
+* Sus distritos difieren de los distritos de coleccionables NFT de maneras únicas
+* Los distritos están ambientados por espacios creativos y galerías, espacios de performance, escenarios&#x20;
