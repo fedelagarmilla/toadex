@@ -5,4 +5,4 @@ coverY: 0
 
 # ⛓ Blockchain
 
-Blockchain technology is core to NewPangea. More info coming soon (tm).&#x20;
+La tecnología Blockchain es fundamental para NewPangea. Más información próximamente (tm).&#x20;
