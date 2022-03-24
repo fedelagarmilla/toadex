@@ -1,9 +1,9 @@
 ---
 description: >-
-  The pillars that we stand for and build from. How we have utilized these ideals in Frogland and are building out from them is discussed further in themes.
+  Los fundamentos que defendemos y con los que construimos. La forma en que hemos utilizado estos ideales en Frogland y estamos construyendo a partir de ellos se discute más en los temas.
 ---
 
-# The Pillars of the Metaverse
+# Los Pilares del Metaverso
 
 ## Community and Socially Driven
 
