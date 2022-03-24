@@ -5,28 +5,28 @@ description: >-
 
 # Los Pilares del Metaverso
 
-## Community and Socially Driven
+## Impulsado por la comunidad y la sociedad
 
-### Lore and Content
+### Historia y contenido
 
-In some projects, fan fiction can eventually gather enough response and momentum that it becomes canon. In Frogland, we want to flip the script and help all community creators write their own ideas and inspiration into Frogland's lore and gameplay. Similarly, we want the same for our partner projects - to be able to create a space that is absolutely dripping with proof of both individual's and community's ideas, aesthetics, and history.
+En algunos proyectos, la ficción de los fans puede llegar a reunir suficiente respuesta e impulso como para convertirse en canon. En Frogland, queremos dar vuelta el guión y ayudar a todos los creadores de la comunidad a escribir sus propias ideas e inspiración en el juego de Frogland. Del mismo modo, queremos lo mismo para nuestros proyectos asociados - ser capaces de crear un espacio que se mueva absolutamente con la prueba de las ideas individuales y de la comunidad. estética e historia.
 
-### Creative Spaces
+### Espacios Creativos
 
-We also want to make sure that NewPangea has room to grow, both itself and for up and coming individuals and collectives. Our Arts District will have individual and collective galleries for artists, as well places where newcomers can meet and network. With these galleries and in other storefront or production options, art can be created, sold, and traded within the NewPangea interface, improving the reach of artists and making their line of communication with their audience even easier and more clear.&#x20;
+También queremos asegurarnos de que NewPangea tenga espacio para crecer, tanto para sí mismo como para los individuos y colectivos venideros. Nuestro Distrito de las Artes contará con galerías individuales y colectivas para artistas, así como lugares donde los recién llegados pueden reunirse y conectarse. Con estas galerías y en otras opciones de tienda o producción, el arte puede ser creado, vendido y comercializado dentro de la interfaz de NewPangea, mejorar el alcance de los artistas y hacer que su línea de comunicación con su público sea aún más fácil y clara.&#x20;
 
-## Tokenomics and Trading
+## Tokenomics y Comercio
 
-The NewPangea economy is designed with fairness in mind. Our goal is to develop a rich ecosystem of items and materials that enhance the experience of NewPangea without becoming a "grind". At the center of the economic system is a barter economy focused on collaboration and cooperation between players to achieve individual and group objectives.  As quests and storylines are added, new items can be created and are made available through a variety of play mechanics so that everyone has an opportunity to experience the breadth and depth of NewPangea. No matter if you are a new user or a long-time resident of NewPangea, there is always something new to discover.
+La economía de NewPangea está diseñada pensando en la equidad. Nuestro objetivo es desarrollar un rico ecosistema de artículos y materiales que mejoren la experiencia de NewPangea sin convertirse en una "carga". En el centro del sistema económico se encuentra una economía de intercambio centrada en la colaboración y la cooperación entre los actores para alcanzar los objetivos individuales y de grupo.  A medida que se añaden misiones e historias, nuevos objetos pueden ser creados y están disponibles a través de una variedad de mecanismos de juego para que todos tengan la oportunidad de experimentar el alcance y la profundidad de NewPangea. No importa si usted es un nuevo usuario o residente desde hace mucho tiempo en NewPangea, siempre hay algo nuevo que descubrir.
 
-## Adventure in a Quirky World
+## Aventura en un mundo raro
 
-NewPangea is the ultimate mash up of a totally open world for socializing, networking and creation, as well as a narrative based, adventuring quest-driven game. This blend of blank slate and continually iterating inspiration is something that will allow for continual growth and new experiences upon every interaction.
+NewPangea es la mezcla definitiva de un mundo totalmente abierto para la socialización, la creación de redes y la creación, así como un juego basado en la narrativa y las aventuras. Esta mezcla de pizarra en blanco e inspiración en iteración constante es algo que permitirá un crecimiento continuo y nuevas experiencias en cada interacción.
 
-### Social Entertainment&#x20;
+### Entretenimiento Social&#x20;
 
-For a metaverse to be a viable location where people want to congregate, there needs to be a good balance of entertainment options and activities that they can partake in similar to real life. You would rarely go to an empty room to stand there with your friends, but you would go to a winery where you could listen to music, chat with your friends and strangers, buy drinks, and maybe even go on a haunted hay ride through the vineyard. We are building NewPangea based around the content that our community generates and based on the games, environments, and interactions they enjoy, all being beta-tested in our discord right from the beginning.&#x20;
+Para que un metaverso sea un lugar viable donde la gente quiera congregarse, tiene que haber un buen equilibrio de opciones de entretenimiento y actividades en las que puedan participar de forma similar a la vida real. Rara vez irías a una sala vacía para estar allí con tus amigos, pero irías a una bodega donde podrías escuchar música charlar con tus amigos y extraños, comprar bebidas, e incluso ir a un paseo en heno encantado a través del viñedo. Estamos construyendo NewPangea en torno a los contenidos que genera nuestra comunidad y basándonos en los juegos, entornos e interacciones que disfrutan, todo ello probado en versión beta en nuestro discord desde el principio.&#x20;
 
-### Adventuring Activities
+### Aventurando Actividades
 
-The questing system is based off of several storylines and built in an open-world format so that creative inspiration can naturally occur. Branching off from existing quests to create your own, playing through quests repeatedly for different achievements, or even taking different actions along the same quest are all examples of how each interaction will be unique to the users and choices made in that instance. Similarly, the storyline-driven and gamified side of NewPangea will be there for interaction and meeting new people from not only within that zone or district, but from others as well. This will help encourage cross-pollination between partner projects, which will in turn further expand the audience and users of crypto and NFTs.&#x20;
+El sistema de misiones está basado en varias líneas de historias y construido en un formato de mundo abierto para que la inspiración creativa pueda ocurrir de forma natural. Bifurcaciones de misiones existentes para crear las propias, la repetición de las misiones para conseguir diferentes logros o incluso la realización de diferentes acciones a lo largo de la misma misión son ejemplos de cómo cada interacción será única para los usuarios y las decisiones tomadas en ese momento. De la misma manera, el lado de NewPangea impulsado por la historia y jugabilidad estará ahí para la interacción y el encuentro de nuevas personas no sólo dentro de esa zona o distrito, pero también de otros. Esto ayudará a fomentar la polinización cruzada entre proyectos socios, lo que a su vez expandirá aún más la audiencia y los usuarios de criptomonedas y NFT&#x20;
