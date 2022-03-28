@@ -10,4 +10,4 @@ coverY: 0
 
 ¡[Asesinato en el Club Social Dragonfly](../../.gitbook/assets/CRIME SCENE.jpg)
 
-Using all of the mood cues and conversation from our community, the Frogland community culture projected both dark humor and a strong interest in wanting to turn the desperation of hope into the energy of optimism. The community influenced our creative direction, and the project expanded its approach to include the tension between cynicism and energetic rebirth. The undertones for the narrative direction, gameplay, and utility for the metaverse gave our blank canvas it's color palette.
+Observando todas las señales y la conversación de nuestra comunidad, la cultura comunitaria de Frogland proyectó tanto humor oscuro como un gran interés en querer convertir la desesperación de la esperanza en la energía del optimismo. La comunidad influyó en nuestra dirección creativa, y el proyecto amplió su enfoque para incluir la tensión entre el cinismo y el renacimiento energético. Los tonos bajos para la dirección narrativa, el juego y la utilidad para el metaverso dieron a nuestro lienzo en blanco su paleta de color.
