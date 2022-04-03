@@ -1,9 +1,9 @@
 ---
-description: What can NewPangea do for you?
+description: '¿Qué puede hacer NewPangea por ti?'
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🕹 For Gamers
+# 🕹 Para Gamers
 
-NewPangea is revolutionary for many reasons, and our focus on game design, development, and tech are not to be underestimated. Working with our top tier game dev studio, Dream Reality Interactive (DRI), we are building something out of this world and are planning to have it accessible through many different platforms, including desktop, mobile, and VR technologies.&#x20;
+NewPangea es revolucionario por muchas razones, y no debemos subestimar nuestro enfoque en el diseño de juegos, el desarrollo y la tecnología. Trabajando con nuestro estudio de desarrollo de juegos de primer nivel, Dream Reality Interactive (DRI), estamos construyendo algo fuera de este mundo y estamos planeando tenerlo accesible a través de diferentes plataformas, incluyendo tecnologías de escritorio, móvil y VR.&#x20;
