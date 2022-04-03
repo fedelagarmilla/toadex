@@ -1,11 +1,11 @@
 ---
-description: What can NewPangea do for you?
+description: '¿Qué puede hacer NewPangea por ti?'
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🎨 For Artists
+# 🎨 Para Artistas
 
-Visual artists have made a major leap in the past several years by being able to integrate their art into the blockchain, birthing NFTs. We want NewPangea to be a place where artists can network with other artists, developers/engineers, and their audience to continue to elevate their creations. Artists are encouraged to help us build the metaverse and each district, create and showcase their own art, or collaborate with others to elevate the worth and importance of art and inspiration  in the current technology and art renaissance. &#x20;
+Los artistas visuales han dado un gran salto en los últimos años al poder integrar su arte en la blockchain, creando NFTs. Queremos que NewPangea sea un lugar donde los artistas puedan conectarse con otros artistas, desarrolladores/ingenieros, y su público siga elevando sus creaciones. Se anima a los artistas a que nos ayuden a construir el metaverso y cada distrito, a crear y mostrar su propio arte, o colaborar con otros para elevar el valor y la importancia del arte y la inspiración en la tecnología actual y el renacimiento del arte. &#x20;
 
-![Don't lick the frogs...artwork from Frogland's original artist and inspiration for the project, Didimx. ](../.gitbook/assets/didi.jpg)
+![No lamas las ranas... obra de arte del artista original de Frogland e inspiración para el proyecto, Didimx. ](../.gitbook/assets/didi.jpg)
