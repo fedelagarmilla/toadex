@@ -1,9 +1,9 @@
 ---
-description: What can you do for NewPangea?
+description: '¿Qué puedes hacer por NewPangea?'
 ---
 
-# 🧠 Ideas to Reality
+# 🧠 Ideas a la Realidad
 
-Community sourced ideas that have been implemented into reality in NewPangea.&#x20;
+Ideas de origen comunitario que han sido implementadas en realidad en NewPangea.&#x20;
 
-![The exterior of the casino in Frogland.](../.gitbook/assets/Casino - Exterior w Statues.png)
+![El exterior del casino de Frogland.](../.gitbook/assets/Casino - Exterior w Statues.png)
