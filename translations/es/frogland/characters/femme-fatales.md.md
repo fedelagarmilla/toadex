@@ -1,12 +1,12 @@
 ---
 description: >-
-  The female characters and avatars as they currently stand. (Still a work in progress).
+  Los personajes y avatares femeninos tal como están actualmente. (Todavía una obra en curso).
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# Femme Fatale
+# Femme Fatales
 
-Intelligent, attractive, and dangerous.
+Inteligente, atractiva y peligrosa.
 
 ![](../../.gitbook/assets/IMG\_7393.jpeg)
