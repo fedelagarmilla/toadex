@@ -1,13 +1,13 @@
 ---
-description: What can NewPangea do for you?
+description: '¿Qué puede hacer NewPangea por ti?'
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 💃 For Socialites
+# 💃 Para Sociales
 
-Frogland is a place where all are welcome to come and enjoy. While froghodlrs will automatically own a plot of land in Frogland, and other partner projects will be able to purchase land as well, even if you don't own an NFT with land in the project, you can still come and interact and enjoy the metaverse.
+Frogland es un lugar donde todos son bienvenidos a venir y disfrutar. Mientras que las holders de ranas poseerán automáticamente una parcela en Frogland, y otros proyectos asociados también podrán comprar terrenos Incluso si no posees un NFT con tierra en el proyecto, todavía puedes venir e interactuar y disfrutar del metaverso.
 
-Technology has made it so the furthest reaches of the world are only a click away. Metaverses mimic the normal social interactions to make that accessibility even more real and natural. We want to take that even further, and create something that can test new mechanics before we use them in the real world. By collaborating and using groupthink with so many other talented and like-minded individuals, we can change the world into a better place.&#x20;
+La tecnología lo ha hecho de manera que los alcances más lejanos del mundo están a sólo un clic. Los metaversos imitan las interacciones sociales normales para hacer que esa accesibilidad sea aún más real y natural. Queremos llevarlo aún más lejos y crear algo que pueda probar nuevos mecanismos antes de utilizarlos en el mundo real. Colaborando y usando groupthink con tantos otros individuos talentosos y afines, podemos convertir el mundo en un mejor lugar&#x20;
 
 ![](../.gitbook/assets/bootleg\_mk.jpg)
