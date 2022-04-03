@@ -1,9 +1,9 @@
 ---
-description: The avatars as they stand in concept and development.
+description: Los avatares tal y como están en concepto y desarrollo.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🐸 Characters
+# 🐸 Personajes
 
-As with concept art, these are still very much works in progress and not final avatars - but an estimation on how they might look.&#x20;
+Al igual que con el arte conceptual, estas son todavía mucho trabajo en progreso y no avatares finales - pero una estimación de cómo podrían verse las cosas.&#x20;
