@@ -1,9 +1,9 @@
 ---
-description: What can NewPangea do for you?
+description: '¿Qué puede hacer NewPangea por ti?'
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🎸 For Musicians
+# 🎸 Para Músicos
 
-Visual artists have been able to successfully utilize the blockchain and NFTs to widen their audience, increase exposure, and have a more direct connection with their audiences than ever before. We have some very exciting things in the works for musicians to do the same for audio artists - but cannot disclose more until things are signed and sealed. Keep your eyes peeled for announcements!
+Los artistas visuales han podido utilizar exitosamente el blockchain y los NFT para ampliar su audiencia, aumentar la exposición y tener una conexión más directa con sus audiencias que nunca. Tenemos algunas cosas muy emocionantes en obra para que los músicos hagan lo mismo con los artistas de audio - pero no podemos revelar más hasta que las cosas estén firmadas y selladas. ¡Mantén los ojos atentos a los anuncios!
