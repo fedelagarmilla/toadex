@@ -1,10 +1,10 @@
 ---
 description: >-
-  Games either adjacently related to or wholly separate from the main narrative of Frogland.
+  Los juegos se relacionan o se separan totalmente de la narrativa principal de Frogland.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# ♟ Mini Games
+# ♟ Mini juegos
 
-More info coming soon (tm).
+Más información próximamente (tm).
