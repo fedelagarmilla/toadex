@@ -1,30 +1,30 @@
 ---
-description: The many ways in which land ownership will be handled in NewPangea.
+description: Las muchas maneras en que la propiedad de la tierra será manejada en NewPangea.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🏝 Land
+# 🏝 Tierra
 
-There are several different types of land in NewPangea. The world is full of vibrant scenes, vistas, ecosystems, and climates. Each area is different but there are some core concepts that are applicable to all areas.
+Hay varios tipos de terreno en NewPangea. El mundo está lleno de escenas, vistas, ecosistemas y climas. Cada área es diferente, pero hay algunos conceptos básicos que son aplicables a todas las áreas.
 
-### Public Land
+### Terreno público
 
-Public land is space available to anyone and everyone. Examples of public land include streets, shops, establishments, and quest areas that are accessible to all players. Most quests start and end at public points of interest.
+La tierra pública es un espacio disponible para todos. Ejemplos de terrenos públicos incluyen calles, tiendas, establecimientos y áreas de misión accesibles para todos los jugadores. La mayoría de las misiones comienzan y terminan en puntos públicos de interés.
 
-### Community Upgradeable Land
+### Tierra mejorable de la comunidad
 
-Some land in NewPangea can be operated and upgraded by the community. These lands are accessible to everyone but can be customized by players in certain circumstances.
+Algunas tierras en NewPangea pueden ser operadas y mejoradas por la comunidad. Estas tierras son accesibles para todos, pero pueden ser personalizadas por jugadores en ciertas circunstancias.
 
-### Private Land
+### Tierra Privada
 
-Private land is owned by players and can be customized. Private land takes many shapes and sizes and is spread throughout all of NewPangea's different ecosystems. Some private land can be modified externally while some land can only be modified internally.
+La tierra privada es propiedad de los jugadores y puede ser personalizada. La tierra privada tiene muchas formas y tamaños y se extiende por todos los diferentes ecosistemas de NewPangea. Algunas tierras privadas pueden ser modificadas externamente, mientras que algunas tierras sólo pueden ser modificadas internamente.
 
-### Quest Areas
+### Áreas de misiones
 
-Certain areas are accessible only as part of a quest line.
+Algunas áreas son accesibles sólo como parte de una línea de misión.
 
-### Restricted Areas
+### Áreas restringidas
 
-Certain areas are restricted for access by certain character types or for certain levels.
+Algunas áreas están restringidas para acceder a ciertos tipos de caracteres o para ciertos niveles.
 
