@@ -1,6 +1,6 @@
 ---
 description: >-
-  The male characters and avatars as they currently stand. (Still a work in progress).
+  Los personajes y avatares masculinos tal como están actualmente. (Todavía una obra en progreso).
 ---
 
 # Suave Motherfroggers
