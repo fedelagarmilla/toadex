@@ -1,19 +1,19 @@
 ---
 description: >-
-  Ways to develop a character to be built into Frogland's aesthetic and the Notorious Frog's nature.
+  Forma de desarrollar un personaje que se construirá en la estética de Frogland y en la naturaleza de la Notorious Frog.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 👾 Character Development
+# 👾 Desarrollo de personajes
 
-Filling out this google form is a good way to start your character development, as well as reading through the lore to get a sense of what others have created for their characters.
+Rellenar este formulario de Google es una buena manera de comenzar tu desarrollo de personajes, así como leer a través de la historia para tener una idea de lo que otros han creado para sus personajes.
 
 {% embed url="https://forms.gle/L3bg8THbhBnAWNmC7" %}
 
-### The Hyype Platform&#x20;
+### La Plataforma de Hyype&#x20;
 
-The Hyype platform that we partnered with gives a new way for you to connect your NFTs to the character that you create with them. When you connect your wallet to their platform, it reads the NFTs that you have and lets you write your character backstories, lore, or anything you want to be linked to that specific NFT. As we further this integration and partnership, the links in the _Notorious Frog Bios_ page will change to links to their Hyype profiles (which are also available and accessible within the Discord in the #hyype-minted-lore channel). \
+La plataforma Hyype con la que nos unimos da una nueva forma de conectar tus NFT con el personaje que creas con ellos. Cuando conectas tu wallet a su plataforma, ésta lee los NFT que tienes y te permite escribir tus historias de personaje, o cualquier cosa que quieras dejar vinculada a ese NFT específico. A medida que avanzamos en esta integración y asociación, los enlaces en la página de _Notorious Frog Bios_ cambiarán a enlaces a sus perfiles de Hyype (que también están disponibles y accesibles dentro de Discord en el canal #hyype-minted-lore channel). \
 
 
 {% embed url="https://hyy.pe" %}
