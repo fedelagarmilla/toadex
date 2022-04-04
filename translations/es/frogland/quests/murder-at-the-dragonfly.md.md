@@ -1,3 +1,3 @@
-# 🦋 Murder at the Dragonfly
+# 🦋 Asesinato en el Dragonfly
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
