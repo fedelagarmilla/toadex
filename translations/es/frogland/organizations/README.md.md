@@ -1,9 +1,9 @@
 ---
-description: Organized (and disorganized) groups and their function in Frogland.
+description: Grupos organizados (y desorganizados) y su función en Frogland.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🏢 Organizations
+# 🏢 Organizaciones
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
