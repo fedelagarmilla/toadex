@@ -1,9 +1,9 @@
 ---
-description: Information about groups such as gangs, schools, or gatherings.
+description: Información sobre grupos como pandillas, escuelas o recolecciones.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🏛 Collectives
+# 🏛 Colectividades
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
