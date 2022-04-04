@@ -6,6 +6,6 @@ coverY: 0
 
 # 👯 Green Light District
 
-The Green Light District in Frogland is home to some of the more disreputable types of characters and businesses.&#x20;
+El Green Light District de Frogland alberga algunos de los tipos de personajes y empresas más desprestigiados&#x20;
 
-This neighborhood is home to the local dive bar Murky Waters, the infamous drug den The Rabbit Hole (surprisingly comfortable couches), Frogland's very own speakeasy (IYKYK), and the place that needs to introduction, everyone's favorite Casino!
+Este vecindario es el hogar del bar de copas Murky Waters, la infame guarida de drogasThe Rabbit Hole (sofás sorprendentemente cómodos), el la taverna de Frogland's (IYKYK), y el lugar que no necesita presentación, el casino favorito de todos!
