@@ -1,12 +1,12 @@
 ---
 description: >-
-  An area of Frogland up high on a hill where all sorts of mysteries lie shrouded.
+  Una zona de Frogland arriba en una colina donde se encuentran todo tipo de misterios.
 ---
 
 # 🪄 Frog Worts
 
-If you are looking to get involved with the arcane, alchemy and other arts of a dark and dubious nature, Frog Worts is the area you'll feel right at home in.&#x20;
+Si quieres involucrarte en el arcano, la alquimia y otras artes de una naturaleza oscura y dudosa, Frog Worts es el área en la que te sentirás como en casa.&#x20;
 
-Frogs like to hang out in the Hexagon, the local pub for all frogs interested in the arcane. Spirits and Elixirs is the local apothecary, home of all your potion-making, spell-casting, and herb having needs.&#x20;
+A las ranas les gusta pasearse por el hexágono, el pub local para todas las ranas interesadas en el arcano. Espíritus y Elixires es el apotecario local, el hogar de todas tus pociones, hechizos y hierbas teniendo necesidad&#x20;
 
-Madame Chiripa is known to hang around these parts, and she is not a frog to be trifled with!
+Se sabe que Chiripa merodea alrededor de estas partes y no es una rana con la que se pueda jugar!
