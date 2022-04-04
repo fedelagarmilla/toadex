@@ -1,8 +1,8 @@
 ---
 description: >-
-  Chronological concept art from our own internal artists as well as from DRI to show the progression and evolution following community feedback.
+  Arte conceptual diario de nuestros propios artistas internos, así como de DRI para mostrar la progresión y evolución siguiendo los comentarios de la comunidad.
 ---
 
-# Concept Art
+# Arte conceptual
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
