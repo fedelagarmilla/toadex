@@ -1,12 +1,12 @@
 ---
 description: >-
-  The outskirts of town, located between the Green Light District and Gutterville.
+  Las afueras de la ciudad, situada entre el Distrito de la Luz Verde y Gutterville.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🌌 Borderlands
+# 🌌 Tierras fronterizas (Borderlands)
 
-Some say the drug lords have their stash house out here in the slums, others say it was raided by the FBI and burnt down...who can be sure?
+Algunos dicen que los señores de la droga tienen su escondite aquí en los barrios marginales, otros dicen que fue asaltada por el FBI y quemada. ¿Quién puede estar seguro?
 
-The Borderlands is where you can find your local gang, store goods in the stash house (the legality of them is none of our business), and race horses at the Stables.
+Las Tierras Fronterizas es donde puedes encontrar tu pandilla local, almacenar las mercancías en la casa de escondite (la legalidad de ellos no es de nuestro negocio), y los caballos de carrera en los establos.
