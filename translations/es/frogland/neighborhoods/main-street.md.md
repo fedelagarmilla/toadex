@@ -1,17 +1,17 @@
 ---
-description: The main drag in Frogland.
+description: La calle principal de Frogland.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🏪 Main Street
+# 🏪 Calle principal (Main Street)
 
-Home to several stores, a few bars, and other businesses, Main Street is the most hoppening place to be for all those fly-brow frogs.&#x20;
+Hogar de varias tiendas, algunos bares y otras empresas, Main Street es el lugar más esperanzador para todas esas ranas prestigiosas.&#x20;
 
-Hang out at The Dragonfly, serving up the best drinks and entertainment in town.
+Descubra en The Dragonfly, donde podrá disfrutar de las mejores bebidas y entretenimiento de la ciudad.
 
-Or take a stroll around the Town Square, where rumors are traded, illegal street racing occurs, and anything can be overheard…
+O dale un paseo por la Plaza de la Ciudad (Town Square) donde se intercambian rumores, ocurren carreras callejeras ilegales y cualquier cosa puede ser oída por alto…
 
-Take your loved frog around to the Gardens, where gossip take root in this rich soil, watered by the blood of dying chickens the illegal cock fighting rings leave behind while hopping madly away from the protective tender of these luscious gardens. If you garner his favor, maybe he'll give you one in return.
+Lleve su rana preferida a los jardines, donde los chismes echan raíces en este rico suelo, regados por la sangre de los pollos moribundos que dejan los centros de lucha de pollos ilegales, mientras que se alejan locamente de la tierna protección de estos jardines lusciosos. Si te ganas su favor, tal vez te dé uno a cambio.
 
-Kings Ave is a new street under development, where you can head to Zooz Main Stage and catch the best frogging performances in town! Head over to Zooz Bar afterwards for a stiff drink and great laughs.
+Kings Ave es una nueva calle en desarrollo, donde puedes ir a Zooz Main Stage y atrapar las mejores actuaciones de ranas en la ciudad! Diríjase al bar Zooz después para tomar una bebida fuerte y grandes alegrías.
