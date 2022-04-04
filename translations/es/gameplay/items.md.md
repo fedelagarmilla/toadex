@@ -1,9 +1,9 @@
 ---
-description: Specific items available in NewPangea.
+description: Artículos específicos disponibles en NewPangea.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 📦 Items
+# 📦 Elementos
 
-More info coming soon (tm).
+Más información próximamente (tm).
