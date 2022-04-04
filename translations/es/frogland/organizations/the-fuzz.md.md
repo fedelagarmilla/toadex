@@ -1,16 +1,16 @@
 ---
 description: >-
-  Information about the Frogland Police Department and the Frogland Bureau of Instigations.
+  Información sobre el Departamento de Policía de Frogland y la Oficina de Intigaciones de Frogland.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🚓 The Fuzz
+# 🚓 El Fuzz
 
-### Frogland Police Department (FLPD)
+### Departamento de Policía de Frogland (FLPD)
 
-Of course, these frogs don't see much action. Why, one might ask? Well, mostly because they're too busy taking bribes and counting their warts to be bothered with catching any criminals. Especially when the Notorious Frogs are immortal, who really cares about petty crime anyway?
+Por supuesto, estas ranas no ven mucha acción. ¿Por qué, uno podría preguntarse? Bueno, sobre todo porque están demasiado ocupados tomando sobornos y contando sus verrugas para preocuparse por atrapar a cualquier criminal. Específicamente cuando las Notorious Frogs son inmortales, ¿a quién realmente le importa el crimen?
 
-### Frogland Bureau of Instigations (FBI)
+### Oficina de instigaciones Frogland (FBI)
 
-Even though the FLPD doesn't take their job seriously, the FBI does. These toads are here to catch flies and kick ass, and they're all out of flies. Even with such relatively high morals, corruption is still rampant, so there's a solid chance you can still get out of the worst of your notorious deeds, but only if you know which palms are the right ones to grease...
+Aunque el FLPD no se toma su trabajo en serio, el FBI sí lo hace. Estos sapos están aquí para atrapar moscas y patear el culo, y están todos fuera de las moscas. Incluso con una moral tan relativamente alta, la corrupción sigue siendo desastrosa, así que hay una buena oportunidad para salir de lo peor de tus acciones notorias, pero sólo si sabes qué palmas son las correctos para engrasar...
