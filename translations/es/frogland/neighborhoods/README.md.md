@@ -1,9 +1,9 @@
 ---
-description: Specific descriptions of areas and locations in Frogland.
+description: Descripciones específicas de las zonas y ubicaciones de Frogland.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🌆 Neighborhoods
+# 🌆 Barrios
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
