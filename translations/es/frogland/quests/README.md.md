@@ -3,6 +3,6 @@ cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🏆 Quests
+# 🏆 Misiones
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
