@@ -1,9 +1,9 @@
 ---
-description: Nice threads you got there...
+description: Buen hilo que has llegado ahí...
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 👕 Wearables
+# 👕 Indumentaria
 
-More info coming soon (tm).
+Más información próximamente (tm).
