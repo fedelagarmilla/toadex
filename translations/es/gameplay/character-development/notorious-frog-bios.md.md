@@ -1,8 +1,8 @@
 ---
-description: The ever illusive but always infamous, Notorious Frog bios!
+description: La siempre ilusiva pero infame, bios de Notorious Frogs!
 ---
 
-# 🐸 Notorious Frog Bios
+# 🐸 Bios Notorious Frogs
 
 ****[**Arrow Flye**](https://docs.google.com/document/d/1-vgavsvxmPvEsQ\_kdSegg65WV\_zrWtlaVq6Et\_fkm6w/edit?usp=sharing)****
 
