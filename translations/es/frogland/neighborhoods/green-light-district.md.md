@@ -1,5 +1,5 @@
 ---
-description: A very scandalous area of town, indeed.
+description: Una zona muy escandalosa de la ciudad.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
