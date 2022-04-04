@@ -1,9 +1,9 @@
 ---
-description: Crypto, the blockchain, tokenomics, and more money buzz words.
+description: Crypto, el blockchain, tokenomics, y más palabras.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 💎 Economy
+# 💎 Economía
 
-More info coming soon (tm).
+Más información próximamente (tm).
