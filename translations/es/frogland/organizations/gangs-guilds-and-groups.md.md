@@ -18,34 +18,34 @@ Un grupo de ranas se centró en su falta de ropa y su historia de origen en las 
 
 La fuente de todas las cosas femininas, ranas y poderosas en Frogland, estas damas están aquí para empoderar a otras mujeres en el espacio, tanto como ranas como como seres humanos.&#x20;
 
-### The HipHOP Anonymous Gang (La pandilla anónima HipHOP)
+### The HipHOP Anonymous Gang (La pandilla HipHOP Anónima)
 
-Sappo Studio’s, located near the center of Frogland, acts as home base for the Notorious HipHOP Anonymous Gang. Although some speculate that Sappo Studios serves as a front for the infamous gang’s illegal activities, no one has been able to pin anything on the founders.&#x20;
+Sappo Studio, ubicado cerca del centro de Frogland, actúa como base de la pandilla HipHOP Anónimo. Aunque algunos especulan que Sappo Studios sirve de frente para las infame actividades ilegales de la pandilla, nadie ha sido capaz de probar nada en los fundadores.&#x20;
 
-### Dragonfly Gang
+### Dragonfly Gang (Pandilla de la Libélula)
 
-Based around the trait of having a dragonfly on your frog, the Dragonfly Gang finds their home in the center of a lagoon, surrounded by all flowers that dragonflies enjoy.&#x20;
+Basado en el rasgo de tener una libélula en tu rana, el Dragonfly Gang encuentra su hogar en el centro de una laguna, rodeada por todas las flores que las libélulas disfrutan.&#x20;
 
-### Magic Guild
+### Magic Guild (Gremio de Magia)
 
-The founding frogs of the Magic Guild have been consumed with understanding the deeper meaning besides the Frogs' strange and alien appearance in Frogland. They decided to take their chances on the periphery of the land and venture out to the edge of the swamp, going west toward the setting sun.
+Las ranas fundadoras del Gremio de Maga se han consumido comprendiendo el significado más profundo además de la extraña apariencia de las ranas en Frogland. Decidieron tomar su oportunidad en la periferia del terreno y aventurarse hasta el borde del pantano, al oeste hacia donde cae el sol.
 
-### Webbed Pete Gang
+### Webbed Pete Gang (Pandilla de Webbed Pete)
 
-The Webbed Pete Gang runs the famously addictive taco truck in town. Some say that the secret ingredient is the "sugar" "imported" "legally" from across the border...and those people seem to have a very persistent cold.&#x20;
+Webbed Pete Gang dirige el famoso y adictivo carrito de venta de tacos en la ciudad. Algunos dicen que el ingrediente secreto es el "azúcar" importado "legalmente" desde el otro lado de la frontera... y esas personas parecen tener un resfriado muy persistente.&#x20;
 
-### Mantis Gang
+### Mantis Gang (Pandilla de Mantis)
 
-The Mantis Gang has a deep rivalry with the Dragonfly Gang, stemming all the way back to...well, no one is quite sure anymore, but the grudge runs deep.
+Mantis Gang tiene una rivalidad profunda con el Dragonfly Gang, que viene desde... bueno, ya nadie está seguro, pero el rencor es profundo.
 
 ### The RifRaf
 
-These rabble rousing frogs prefer living life on the streets than the pretentious flash and haze of the upper class, preferring to stay true to their hip-hop roots.&#x20;
+Estas ranas prefieren la vida en las calles que el brillo pretencioso y la bruma de la clase alta, prefiere mantenerse fiel a sus raíces de hip-hop.&#x20;
 
 ### Peacocky Blinders
 
-These frogs are the only ones in Frogland to have forged an alliance with the Pangea Peacocks, affording them a certain level of protection from dangerous and sealed lands of the Peacocks. This alliance is memorialized in the iconic headdresses worn by the frogs of Peacocky Blinders.&#x20;
+Estas ranas son las únicas en Frogland que han forjado una alianza con los pavos reales de Pangea, permitiéndoles un cierto nivel de protección contra las tierras peligrosas y selladas de los pavos reales. Esta alianza se graba en los tocados icónicos usadas por las ranas de Peacocky Blinders&#x20;
 
-### The Prison Gang
+### The Prison Gang (La Pandilla de la Prisión)
 
-It's rumored that the members of the Prison Gang have some backhanded dealings with the speakeasy in town, Double Barrell. Even whilst operating Bullish Laundromat, a business that employs ex-con frogs, these frogs wear their stripes proudly as they endeavor to show that they shortened their time by working their way out of jail.&#x20;
+Se rumorea que los miembros del Prison Gang tienen algunos tratos con el bar clandestino en la ciudad, Double Barrell. Incluso mientras se utiliza la lavandería Bullish, un negocio que emplea ranas ex-convictas, estas ranas llevan sus bandas orgullosamente mientras se esfuerzan por demostrar que acortaron su tiempo a fuerza de trabajo en la cárcel.&#x20;
