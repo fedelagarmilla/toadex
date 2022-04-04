@@ -1,24 +1,24 @@
 ---
-description: ...oh my! Record of official collectives formed within Frogland.
+description: Oye! Registro de colectividades oficiales formados en Frogland.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🛖 Gangs, Guilds, & Groups
+# Pandillas, Gremios, & Grupos
 
-### Nazar Frogs
+### Nazar Frogs (Ranas de Nazar)
 
-A collective of seven frogs in the community with their own goals and ideas of how to make their run of good karma in a casino into much, much more. Running the Aquatica Casino in Frogland, these frogs are known to have many fingers in many fly pies throughout the government.&#x20;
+Un colectivo de siete ranas en la comunidad con sus propios objetivos e ideas de cómo hacer que su carrera de buen karma en un casino en mucho, mucho más. Ejecutando el Casino Aquatica en Frogland, se sabe que estas ranas tienen muchos dedos en muchos pasteles de vuelo a través del gobierno.&#x20;
 
-### Nude Frog Club
+### Nude Frog Club (Club de las ranas desnudas)
 
-A group of frogs centered around their lack of clothing and their origin story in the hot springs in the Frogland plateau, all recorded in _The Book of the Naked Frog_ - a text written by their own.&#x20;
+Un grupo de ranas se centró en su falta de ropa y su historia de origen en las aguas termales de la meseta de Frogland, todo escrito en _El Libro de la Rana Desnuda_ (The Book of the Naked Frog)- un texto escrito por ellos.&#x20;
 
-### Real PADwives of Frogland
+### Real PADwives of Frogland (Amas reales de Frogland)
 
-The source of all things feminine, froggy, and powerful in Frogland, these ladies are here to empower other women in the space, both as frogs and as humans.&#x20;
+La fuente de todas las cosas femininas, ranas y poderosas en Frogland, estas damas están aquí para empoderar a otras mujeres en el espacio, tanto como ranas como como seres humanos.&#x20;
 
-### The HipHOP Anonymous Gang
+### The HipHOP Anonymous Gang (La pandilla anónima HipHOP)
 
 Sappo Studio’s, located near the center of Frogland, acts as home base for the Notorious HipHOP Anonymous Gang. Although some speculate that Sappo Studios serves as a front for the infamous gang’s illegal activities, no one has been able to pin anything on the founders.&#x20;
 
