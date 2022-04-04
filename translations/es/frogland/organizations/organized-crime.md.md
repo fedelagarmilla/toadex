@@ -1,10 +1,10 @@
 ---
 description: >-
-  We only have organized crime in Frogland...except for the disorganized crime, that is.
+  Sólo tenemos el crimen organizado en Frogland... excepto el crimen desorganizado, es decir, el crimen desorganizado.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🎩 Organized Crime
+# 🎩 Crimen organizado
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
