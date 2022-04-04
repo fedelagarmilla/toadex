@@ -1,5 +1,5 @@
 ---
-description: Commonly asked questions and answers.
+description: Preguntas y respuestas comúnmente formuladas.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
