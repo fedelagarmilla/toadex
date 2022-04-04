@@ -1,7 +1,7 @@
 ---
-description: Rap sheets and other leaked flyles from the Frogland Bureau of Instigations.
+description: Fichas de ranas y otros mosquitos filtrados de la Oficina de Instigaciones de la Escritura.
 ---
 
-# FBI Flyles
+# Archivos FBI
 
-More info coming soon (tm).&#x20;
+Más información próximamente (tm).&#x20;
