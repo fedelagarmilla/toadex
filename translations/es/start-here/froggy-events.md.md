@@ -8,7 +8,7 @@ coverY: 0
 
 **10/31 - 11/5/21** - NFT NYC - Invasión de ranas
 
-**11/2/21** - BO0N1LAND party co-hosted between Frogland, Rare Pizzas, 0N1 Force, and Ethereals
+**11/2/21** - BO0N1LAND fiesta co-organizada entre Frogland, Rare Pizzas, 0N1 Force, y Ethereals
 
 **11/10 - 11/12/21** - Crypto Miami
 
