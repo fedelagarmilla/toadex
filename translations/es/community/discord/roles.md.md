@@ -1,66 +1,66 @@
 ---
 description: >-
-  A summary of the roles you can earn within the Discord, with definite implications for your future roles in Frogland and NewPangea
+  Un resumen de los roles que puedes ganar en el Discord, con implicaciones definitivas para tus roles futuros en Frogland y NewPangea
 ---
 
 # 🧙 Roles
 
 ### Froghodlr&#x20;
 
-Denounces official ownership of a frog(s) through wallet connection
+Anuncia la propiedad oficial de una rana (s) a través de conexión de billetera digital
 
-### **Soldiers**
+### **Soldiers (Soldado)**
 
-Foot soldiers on the ground floor of Frogland's crime syndicates. Can be obtained throught the purchase of a _Revolver._
+Soldados de a pie de los sindicatos del crimen en Frogland Se puede obtener a través de la compra de un _Revolver._
 
-### **Farmers**
+### **Farmers (Agricultores)**
 
-The bread and butter of Frogland's food production system. Can be obtained with the purchase of a _Tractor_. Role Required: **Soldier**
+El pan y mantequilla del sistema de producción de alimentos de Frogland. Se puede obtener con la compra de un _Tractor_. Rol Requerido: **Soldier**
 
-### **Scribes**
+### **Scribes (Escribanos)**
 
-Written historians of Frogland. Can be obtained with the purchase of a _Quill_.
+Historiadores de Frogland. Se puede obtener con la compra de una pluma (_Quill_).
 
-### **Merchants**
+### **Merchants (Comerciantes)**
 
-Shop owners and sellers of Forgland. Can be obtained through the purchase and use of _Coffee and Spaghetti or Fertilizer._ Role Required: **Scribes** or **Farmer**
+Dueños de tiendas y vendedores de Forgland. Se puede obtener a través de la compra y uso de _Coffee y Spaghetti o Fertilizer._ Rol requerido: **Scribes** o **Farmer**
 
-### **Artisans**
+### **Artisans (Artesanos)**
 
-Skilled workers and craftsman of Frogland. Can be obtained through the purchase and use of an Easel. Role Required: **Scribes**
+Trabajadores cualificados y artesanos de Frogland. Se puede obtener a través de la compra y uso de un Easel. Rol requerido: **Scribes**
 
-### **Street Thug**
+### **Street Thug (Matón callejero)**
 
-Confidants and second hands of Frogland's crime syndicate, supporting the Gang Leaders. Can be obtained through the purchase and use of a _Froglex or Switch-Blade Knife_. Role required: **Noble** or **Farmers**
+Confidentes y segunda mano del sindicato criminal de Frogland, apoyando a los líderes de pandillas. Se puede obtener a través de la compra y uso de un _Froglex o Switch-Blade Knife_. Rol requerido: **Noble** o ** Farmers **
 
 ### Nobles
 
-The rich and powerful of Frogland. Can be obtained with the purchase and use of a _Picture Frame_. Role Required: **Artisans**
+Los ricos y poderosos de Frogland. Se puede obtener con la compra y uso de un _Picture Frame_. Rol requerido: **Artisans**
 
-### **Gang Leader**
+### **Gang Leader (Líder de pandilla)**
 
-Crime lords of New Pangea. Can be obtained with the purchase and use of a _Ledger._ Role __ Required: **Street Thug**
+Reyes criminales de Nueva Pangea. Se puede obtener con la compra y el uso de _Ledger._ Rol requerido: **Street Thug**
 
-### Government Official&#x20;
+### Government Official&#x20; (Oficial de Gobierno)
 
-Head politicians of Frogland, can be obtained with the purchase and use of a _Telegram from Gutterville._ Role __ Required: **Noble**.
+Los políticos principales de Frogland, pueden obtenerse con la compra y uso de un _Telegram de Gutterville._ Rol __ Requerido: **Noble**.
 
-### **Ringleader**
+### **Ringleader (Cabecilla)**
 
-Ownership of 7+ Notorious Frogs
+Posesión de +7 Notorious Frogs
 
 ### **Boss**
 
-Ownership of 20+ Notorious Frogs
+Dueño de +20 Notorious Frogs
 
 ### **Don**
 
-Ownership of 50+ Notorious Frogs
+Posesión de +50 Notorious Frogs
 
-### **Guardian**
+### **Guardián**
 
-Ownership of 100+ Notorious Frogs
+Posesión de +100 Notorious Frogs
 
 ### **FRPG**
 
-Obtained after confirmation of filling out your [Rap Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdXrCBnxnWfDYf6b4izA1xVxauBSJFfyR3eklFES43lqA4CbQ/viewform)
+Obtenido después de confirmar el ingreso de tu registro[Rap Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdXrCBnxnWfDYf6b4izA1xVxauBSJFfyR3eklFES43lqA4CbQ/viewform)
