@@ -5,43 +5,43 @@ coverY: 0
 
 # 🎮 Discord
 
-Good ribbit and welcome to NewPangea! We want to make your transition a smooth one. Below find an ever-updating list of subheadings, their channels, and their purpose. Make sure to check out the **pinned posts** (pushpin icon top R side on desktop, swipe to R sidebar on mobile) as they will have key information for each channel.
+Good Ribbit y bienvenido a NewPangea! Queremos que su transición sea fluída. A continuación encontrará una lista siempre actualizada de subtítulos, sus canales y su propósito. Asegúrate de echar un vistazo a las **publicaciones ancladas** (el lado superior R del icono de pushpin en el escritorio, deslice a la barra lateral R en el móvil) ya que tendrán información clave para cada canal.
 
-_Some subheadings/channels will not be visible to you if you do not have a certain role - **#🧙🏽︱connect-wallet** is the first thing to do to fix that, playing the game is the second step._
+_Algunos subencabezados/canales no serán visibles para usted si no tiene un rol determinado - **#🧙🏽—connect-wallet** es la primera cosa que debe hacer para arreglar eso, jugar el juego es el segundo paso._
 
-### WELCOME
+### BIENVENIDO
 
-Channels**: **_**#**_**🎈︱welcome, #🗨︱rules, #✅︱#verification, #🧙🏽︱connect-wallet**&#x20;
+Canales**: **_**#**_**🎈︱welcome, #🗨︱rules, #✅︱#verification, #🧙🏽︱connect-wallet**&#x20;
 
-Purpose: Granting entry into the discord with proof you're not a bot or a troll, and that you either are a frog, have a frog, or want frogs.
+Propósito: Otorgar entrada a Discord con la prueba de que no eres un bot o un trol, y que usted es una rana, tiene una rana, o quiere ranas.
 
-### NFT BUY/SELL/INFO
+### NFT COMPRA/VENTA/INFO
 
-Channels: _**#**_**📈︱sell-frog-buy-frog, #🐸︱buy-frog, # 🎁︱free-shtuff**
+CANALES: _**#**_**📈︱sell-frog-buy-frog, #🐸︱buy-frog, # 🎁︱free-shtuff**
 
-Description: Notorious Frog NFT buying, selling, trading, floor prices, and giveaways.
+Descripción: Notorious Frog NFT compra, venta, intercambio, precio de piso, y premios.
 
-### IMPORTANT
+### IMPORTANTE
 
-Channels**: #📢︱announcements, #ℹ︱official-links, #💎︱frog-rarity**
+Canales**: #📢︱announcements, #ℹ︱official-links, #💎︱frog-rarity**
 
-Description: All official news, links, and rarity for the Notorious Frogs, including the Toadex.
+Descripción: Todas las noticias oficiales, links, y rareza para las Notorious Frogs, incluído el Toadex.
 
 ### GENERAL
 
-Channels**: #🗺︱map-start-here, #🐸︱frogland-general, #🐱︱gutterville,                                      #💀︱island-of-osseous, #👺︱ethereal-enclave, #🎨︱the-art-districts, #👀︱sneak-peek,                                  #🤑︱-crypto-chat**
+Canales**: #🗺︱map-start-here, #🐸︱frogland-general, #🐱︱gutterville,                                      #💀︱island-of-osseous, #👺︱ethereal-enclave, #🎨︱the-art-districts, #👀︱sneak-peek,                                  #🤑︱-crypto-chat**
 
-Description: General community chat about each of the four original districts, released content from NewPangea’s development, crypto and nfts, or current events.
+Descripción: Chat de la comunidad general sobre cada uno de los cuatro distritos originales, contenido publicado del desarrollo de NewPangea, criptos y nfts, o eventos actuales.
 
-### SOCIAL FROGS
+### FROGS SOCIALES
 
-Channels**: #🕊︱🐸-follow-🐸, #🐸︱frog-meme, #🚀︱shill﹠toad-ya-so, #🌳︱conservation**
+Canales**: #🕊︱🐸-follow-🐸, #🐸︱frog-meme, #🚀︱shill﹠toad-ya-so, #🌳︱conservation**
 
-Description: Frog social media, any project shills, and hodlr status private channels.
+Descripción: redes sociales, promocionar otros proyectos, canales privados de frogholders.
 
-### CREATIVE
+### CREATIVO
 
-Channels**: #🧠︱ideas, #"Froxford Froglish Dictionary", #🌐︱newpangea-architects, #🌐︱developers, #🎶︱frogland-mixtape, #🎨︱nf-art-assets, #🐸︱deribbitives**
+Canales**: #🧠︱ideas, #"Froxford Froglish Dictionary", #🌐︱newpangea-architects, #🌐︱developers, #🎶︱frogland-mixtape, #🎨︱nf-art-assets, #🐸︱deribbitives**
 
 Description: All ideas, suggestions, collabs, and discussion of the "how" for Frogland and NewPangea.
 
