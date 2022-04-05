@@ -1,12 +1,12 @@
 ---
 description: >-
-  A beautiful aesthetic with dangerous adventures, linked by innovative tech and tokenomics.
+  Una hermosa estética con aventuras peligrosas, vinculadas por tecnología innovadora y tokenomics.
 cover: ../../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
-# 🌐 Themes of Frogland
+# 🌐 Temas de Frogland
 
-Using the pillars of NewPangea, we prompted our community for ideas and feedback to create overarching themes based around what drew them to the Notorious Frogs and the story they told. The creation spawned from such is nothing short of amazing, and we endeavor every day to fulfill these ideals and build Frogland into the fantastical, challenging, lush, edgy, authentic place that every Notorious Frog hodlr feels they can call home.&#x20;
+Utilizando los pilares de NewPangea, solicitamos a nuestra comunidad ideas y cometarios para crear temas generales basados en lo que los atrajo a las Notorious Frogs y la historia que contaban. La creación generada a partir de tales es nada menos que asombrosa, y nos esforzamos cada día por cumplir estos ideales y construir Frogland en el fantásticao desafiante, ardiente y auténtico lugar que cada Notorious Frog sienta que puede llamar casa.&#x20;
 
-![Early concept art from DRI. ](../../.gitbook/assets/rain\_mock\_up-latest.jpg)
+![Arte conceptual de DRI. ](../../.gitbook/assets/rain\_mock\_up-latest.jpg)
