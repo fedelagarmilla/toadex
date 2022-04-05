@@ -12,15 +12,15 @@ coverY: 0
 
 **11/10 - 11/12/21** - Crypto Miami
 
-**11/29 - 12/8/21** - Art Basel and NFT Miami&#x20;
+**11/29 - 12/8/21** - Art Basel y NFT Miami&#x20;
 
-**12/2/21** - Frogland, EcoFi, and Lukso VIP yacht party
+**12/2/21** - Frogland, EcoFi, y Lukso fiesta de yates VIP
 
-**12/31/21** - Collab metaverse party with MadBop
+**12/31/21** - Fiesta metaverso con MadBop
 
-**1/4 - 1/6/22** - Frogland presence at CES Vegas
+**1/4 - 1/6/22** - Presencia de Frogland en CES Las Vegas
 
-**1/14/22** - Scavenger Hunt Collab with Degenz Den NFT
+**1/14/22** - Búsqueda del tesoro con Degenz Den NFT
 
 **3/28 - 3/30/22** - NFT LA
 
