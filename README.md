@@ -6,6 +6,8 @@ description: '¡Bienvenidos, amigos!'
 
 # Bienvenido a NewPangea
 
+ESTA ES UNA TRADUCCIÓN **NO OFICIAL**, REALIZADA POR LA COMUNIDAD. POR FAVOR PARA LINKS Y REFERENCIAS DIRIGETE AL DOCUMENTO DEL TOADEX ORIGINAL. EL EQUIPO DE FRGOLAND NO ES RESPONSABLE DE LA CALIDAD DE LA TRADUCCIÓN O DEL CONTENIDO DE LOS ENLACES.. RIBBIT
+
 Si has llegado hasta aquí, ¡estás interesado en averiguar qué rana está pasando con Notorious Frogs de Frogland, NewPangea!&#x20;
 
 Consideremos esto el White Paper (documento de información) de Frogland. Excepto...¿Cómo puede un simple 'white paper' abarcar todo lo que Notorious Frogs, Frogland y NewPangea aspiran representar? Lo que es más importante, las ranas no son blancas... son _multicolores._
