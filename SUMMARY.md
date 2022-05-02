@@ -1,98 +1,94 @@
-# Table of contents
+# Tabla de contenidos
 
-* [Welcome to NewPangea](README.md)
+* [Bienvenido a NewPangea](README.md)
 
-## START HERE
+## INICIAR AQUÍ
 
-* [🐸 Introduction](start-here/introduction.md)
+* [🐸 Introducción](start-here/introduction.md)
 * [❓ FAQ](start-here/faq.md)
-* [💚 The Frog Team](start-here/the-frog-team.md)
+* [💚 El Frog Team](start-here/the-frog-team.md)
 * [🗺 Toadmap](start-here/toadmap.md)
-* [📅 Froggy Events](start-here/froggy-events.md)
-* [🎥 Frogs in the News](start-here/frogs-in-the-news.md)
+* [📅 Eventos Froggy](start-here/froggy-events.md)
+* [:mo✫ _camera: Frogs en las noticias](start-here/frogs-in-the-news.md)
 
-## DESIGN
+## Diseño
 
-* [⚖ Principles of NewPangea](design/principles-of-newpangea/README.md)
-  * [Geography and Layout](design/principles-of-newpangea/geography-and-layout.md)
-  * [The Pillars of the Metaverse](design/principles-of-newpangea/the-pillars-of-the-metaverse.md)
-* [🌐 Themes of Frogland](design/themes-of-frogland/README.md)
-  * [Aesthetics](design/themes-of-frogland/aesthetics.md)
-  * [Economy](design/themes-of-frogland/economy.md)
-  * [Entertainment](design/themes-of-frogland/entertainment.md)
+* [⚖ Principios de NewPangea](design/principles-of-newpangea/README.md)
+  * [Geografía y diseño](design/principles-of-newpangea/geography-and-layout.md)
+  * [Los pilares del metaverso](design/principles-of-newpangea/the-pillars-of-the-metaverse.md)
+* [🌐 Temas de Frogland](design/themes-of-frogland/README.md)
+  * [Estética](design/themes-of-frogland/aesthetics.md)
+  * [Economía](design/themes-of-frogland/economy.md)
+  * [Entretenimiento](design/themes-of-frogland/entertainment.md)
 
-## COMMUNITY
+## COMUNIDAD
 
 * [🎮 Discord](community/discord/README.md)
-  * [💰 Notable Discord Functions](community/discord/notable-discord-functions.md)
+  * [💰 Funciones destacadas de Discord](community/discord/notable-discord-functions.md)
   * [🧙 Roles](community/discord/roles.md)
 * [🐲 FRPG](community/frpg.md)
-* [🎨 For Artists](community/for-artists.md)
-* [⌨ For Designers/Engineers](community/for-designers-engineers.md)
-* [🕹 For Gamers](community/for-gamers.md)
-* [🎸 For Musicians](community/for-musicians.md)
-* [💃 For Socialites](community/for-socialites.md)
-* [🧠 Ideas to Reality](community/ideas-to-reality.md)
+* [🎨 Para Artistas](community/for-artists.md)
+* [⌨ Para Diseñadores/Ingenieros](community/for-designers-engineers.md)
+* [🕹 Para Gamers](community/for-gamers.md)
+* [🎸 Para Músicos](community/for-musicians.md)
+* [💃 Para Sociales](community/for-socialites.md)
+* [🧠 Ideas a la Realidad](community/ideas-to-reality.md)
 
-## GAMEPLAY
+## JUEGO
 
-* [👾 Character Development](gameplay/character-development/README.md)
-  * [🐸 Notorious Frog Bios](gameplay/character-development/notorious-frog-bios.md)
-* [🏝 Land](gameplay/land.md)
-* [💎 Economy](gameplay/economy.md)
-* [🏛 Collectives](gameplay/collectives.md)
-* [⚗ Alchemy & Magic](gameplay/alchemy-and-magic.md)
-* [📦 Items](gameplay/items.md)
-* [👕 Wearables](gameplay/wearables.md)
-* [♟ Mini Games](gameplay/mini-games.md)
+* [👾 Desarrollo de personajes](gameplay/character-development/README.md)
+  * [Bios Notorious Frogs](gameplay/character-development/notorious-frog-bios.md)
+* [🏝 Tierra](gameplay/land.md)
+* [💎 Economía](gameplay/economy.md)
+* [🏛 Colectividades](gameplay/collectives.md)
+* [⚗ Alquimia & Magia](gameplay/alchemy-and-magic.md)
+* [📦 Elementos](gameplay/items.md)
+* [:t-camiseta: Indumentaria](gameplay/wearables.md)
+* [♟ Mini juegos](gameplay/mini-games.md)
 
-## Frogland News Network (FNN)
+## Red de noticias de Frogland (FNN)
 
-* [📰 The Daily Splat (tabloid)](multiverse/the-daily-splat-tabloid.md)
+* [📰 El Daily Splat (tabloide)](multiverse/the-daily-splat-tabloid.md)
 * [📻 KHOP Radio](multiverse/khop-radio.md)
-* [📕 Frogland Glossary](multiverse/frogland-glossary/README.md)
-  * [Froxford Froglish Dictionary](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
-  * [Hard Boiled Slang](multiverse/frogland-glossary/hard-boiled-slang.md)
+* [📕 Glosario de Frogland](multiverse/frogland-glossary/README.md)
+  * [Diccionario Froxford Froglish](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
+  * [Hard Boiled Slang (Jerga) ](multiverse/frogland-glossary/hard-boiled-slang.md)
 
 ## 🐸 FROGLAND
 
-* [📜 Lore](frogland/lore/README.md)
-  * [Concept Art](frogland/lore/concept-art.md)
-  * [FBI Flyles](frogland/lore/fbi-flyles.md)
-* [🏢 Organizations](frogland/organizations/README.md)
-  * [🚓 The Fuzz](frogland/organizations/the-fuzz.md)
-  * [🛖 Gangs, Guilds, & Groups](frogland/organizations/gangs-guilds-and-groups.md)
-  * [🎩 Organized Crime](frogland/organizations/organized-crime.md)
-* [🌆 Neighborhoods](frogland/neighborhoods/README.md)
-  * [Page 1](frogland/neighborhoods/page-1.md)
-  * [🏪 Main Street](frogland/neighborhoods/main-street.md)
-  * [👯 Green Light District](frogland/neighborhoods/green-light-district.md)
-  * [🌌 Borderlands](frogland/neighborhoods/borderlands.md)
+* [📜 Folklore](frogland/lore/README.md)
+  * [Arte conceptual](frogland/lore/concept-art.md)
+  * [Archivos FBI](frogland/lore/fbi-flyles.md)
+* [🏢 Organizaciones](frogland/organizations/README.md)
+  * [🚓 El Fuzz](frogland/organizations/the-fuzz.md)
+  * [Pandillas, Gremios, & Grupos](frogland/organizations/gangs-guilds-and-groups.md)
+  * [🎩 Crimen organizado](frogland/organizations/organized-crime.md)
+* [🌆 Barrios](frogland/neighborhoods/README.md)
+  * [Página 1](frogland/neighborhoods/page-1.md)
+  * [🏪 Calle principal](frogland/neighborhoods/main-street.md)
+  * [:peopleple_with_bunny_ears: Distrito Luz Verde](frogland/neighborhoods/green-light-district.md)
+  * [🌌 Tierras fronterizas](frogland/neighborhoods/borderlands.md)
   * [🪄 Frog Worts](frogland/neighborhoods/frog-worts.md)
-* [🐸 Characters](frogland/characters/README.md)
+* [🐸 Personajes](frogland/characters/README.md)
   * [Suave Mudderfroggers](frogland/characters/suave-mudderfroggers.md)
   * [Femme Fatales](frogland/characters/femme-fatales.md)
-* [🏆 Quests](frogland/quests/README.md)
-  * [🦋 Murder at the Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
+* [🏆 Misiones](frogland/quests/README.md)
+  * [🦋 Asesinato en el Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
 
 ## 😼 GUTTERVILLE
 
-* [📜 Lore](gutterville/lore.md)
+* [📜 Folklore](gutterville/lore.md)
 
 ## ☠ Osseous
 
-* [📜 Lore](osseous/lore.md)
+* [📜 Folklore](osseous/lore.md)
 
 ## 👺 ETHEREAL ENCLAVE
 
-* [📜 Lore](ethereal-enclave/lore.md)
+* [📜 Folklore](ethereal-enclave/lore.md)
 
-## ARCHITECTURE
+## ARQUITECTURA
 
 * [⛓ Blockchain](architecture/blockchain.md)
-* [💾 Contracts](architecture/contracts.md)
-* [🖼 Non-Fungible Tokens](architecture/non-fungible-tokens.md)
-
-## TRANSLATIONS
-
-* [🇪🇸 ES](translations/es.md)
+* [💾 Contratos](architecture/contracts.md)
+* [🖼 Tokens no-fungibles](architecture/non-fungible-tokens.md)
