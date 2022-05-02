@@ -95,5 +95,4 @@
 
 ## TRANSLATIONS
 
-* [🇪🇸 ES](translations/es/SUMMARY.md)
-
+* [🇪🇸 ES](translations/es.md)
