@@ -12,7 +12,7 @@ Si has llegado hasta aquí, ¡estás interesado en averiguar qué rana está pas
 
 Consideremos esto el White Paper (documento de información) de Frogland. Excepto...¿Cómo puede un simple 'white paper' abarcar todo lo que Notorious Frogs, Frogland y NewPangea aspiran representar? Lo que es más importante, las ranas no son blancas... son _multicolores._
 
-![Arte de Dream Reality Interactive.](.gitbook/assets/Untitled-1 (1).png)
+![Arte de Dream Reality Interactive.](<.gitbook/assets/Untitled-1 (1).png>)
 
 De la misma manera que el Frog Team está tratando de cambiar la forma en que los NFT, metaversos y criptomonedas, son comercializados y utilizados, sabíamos que necesitábamos algo más para nuestro Libro Verde, algo totalmente diferente.&#x20;
 
