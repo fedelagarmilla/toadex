@@ -7,4 +7,4 @@ description: >-
 
 Notorioso, de hecho.&#x20;
 
-![](../../.gitbook/assets/\_The Art of New Pangea -Frogland (8).jpg)
+![](<../../.gitbook/assets/\_The Art of New Pangea -Frogland (8).jpg>)
