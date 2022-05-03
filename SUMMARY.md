@@ -9,7 +9,7 @@
 * [💚 El Frog Team](start-here/the-frog-team.md)
 * [🗺 Toadmap](start-here/toadmap.md)
 * [📅 Eventos Froggy](start-here/froggy-events.md)
-* [:mo✫ _camera: Frogs en las noticias](start-here/frogs-in-the-news.md)
+* [🎥 Frogs en las noticias](start-here/frogs-in-the-news.md)
 
 ## Diseño
 
