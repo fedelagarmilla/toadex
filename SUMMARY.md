@@ -93,3 +93,7 @@
 * [⛓ Blockchain](architecture/blockchain.md)
 * [💾 Contracts](architecture/contracts.md)
 * [🖼 Non-Fungible Tokens](architecture/non-fungible-tokens.md)
+
+## TRANSLATIONS
+
+* [🇪🇸 ES](translations/es.md)
